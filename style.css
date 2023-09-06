@@ -1,0 +1,20 @@
+body {
+  background-color: yellow;
+}
+.name {
+  font-family: Arial, sans-serif;
+  font-size: 5px;
+  color: green;
+  font-weight: bold;
+}
+.age {
+  font-family: Helvetica, sans-serif;
+  font-size: 6px;
+  color: red;
+}
+table {
+  width: 50%;
+  border-collapse: collapse;
+  margin: 20px;
+  border-color: black;
+}
